@@ -1,0 +1,14 @@
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.AssemblyInfoInputs.cache
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.AssemblyInfo.cs
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.csproj.CoreCompileInputs.cache
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\bin\Debug\net8.0\LSN7DZ1.exe
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\bin\Debug\net8.0\LSN7DZ1.deps.json
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\bin\Debug\net8.0\LSN7DZ1.runtimeconfig.json
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\bin\Debug\net8.0\LSN7DZ1.dll
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\bin\Debug\net8.0\LSN7DZ1.pdb
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.dll
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\refint\LSN7DZ1.dll
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.pdb
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\LSN7DZ1.genruntimeconfig.cache
+C:\Users\s.ivanov\Desktop\LSN7\LSN7DZ1\obj\Debug\net8.0\ref\LSN7DZ1.dll
